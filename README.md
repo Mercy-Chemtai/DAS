@@ -14,6 +14,7 @@ It is a built-in data type that allows you to create immutable sequences of valu
          -How to write For-loop
          
 ##Stacks
+
  It is an abstract data type that serves as a collection of elements with main operations         
  such as :
  Push - which is used to add an element to the collection.
