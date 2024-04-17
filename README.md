@@ -19,4 +19,11 @@ It is a built-in data type that allows you to create immutable sequences of valu
  such as :
  Push - which is used to add an element to the collection.
  pop - This is used to remove the most recently added element.
+
+ ##Queues 
+ 
+ It is a linear data structure that uses the FIFO principle of ordering to store items.
+         it is similar to stack but it uses the FIFO which is first in first out for example a line of customers where the first in the line is the first out after being served. 
+         There are various implementations of queues for example lists, collections of deque, and queues. Queue. 
+         deques are also called doubly-ended queues which are implemented using collections.  
  
